@@ -12,3 +12,4 @@ c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\n
 c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.pdb
 c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.genruntimeconfig.cache
 c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\ref\GradeCalculatorApp.dll
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.sourcelink.json

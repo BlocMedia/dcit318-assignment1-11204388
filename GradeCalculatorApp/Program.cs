@@ -17,13 +17,11 @@ public class GradeCalculator
             Console.Write("Please enter a numerical grade between 0 and 100: ");
             string input = Console.ReadLine();
 
-            // Try to parse the input as an integer
             if (int.TryParse(input, out grade))
             {
-                // Check if the grade is within the valid range
                 if (grade >= 0 && grade <= 100)
                 {
-                    isValidInput = true; // Input is valid, exit loop
+                    isValidInput = true; 
                 }
                 else
                 {
@@ -37,7 +35,6 @@ public class GradeCalculator
         }
 
 
-        // Determine the letter grade based on the scale
         if (grade >= 90)
         {
             letterGrade = "A";

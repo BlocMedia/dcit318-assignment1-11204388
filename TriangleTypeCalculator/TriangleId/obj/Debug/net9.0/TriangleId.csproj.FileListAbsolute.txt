@@ -1,0 +1,15 @@
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\bin\Debug\net9.0\TriangleId.exe
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\bin\Debug\net9.0\TriangleId.deps.json
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\bin\Debug\net9.0\TriangleId.runtimeconfig.json
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\bin\Debug\net9.0\TriangleId.dll
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\bin\Debug\net9.0\TriangleId.pdb
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\TriangleId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\TriangleId.AssemblyInfoInputs.cache
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\TriangleId.AssemblyInfo.cs
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\TriangleId.csproj.CoreCompileInputs.cache
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\TriangleId.sourcelink.json
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\TriangleId.dll
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\refint\TriangleId.dll
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\TriangleId.pdb
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\TriangleId.genruntimeconfig.cache
+C:\Users\NKG\Desktop\dcit318-assignment1-11204388\TriangleTypeCalculator\TriangleId\obj\Debug\net9.0\ref\TriangleId.dll
