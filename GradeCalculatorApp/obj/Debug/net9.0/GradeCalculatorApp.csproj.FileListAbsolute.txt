@@ -1,0 +1,14 @@
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfoInputs.cache
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfo.cs
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.csproj.CoreCompileInputs.cache
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.exe
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.deps.json
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.runtimeconfig.json
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.dll
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.pdb
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.dll
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\refint\GradeCalculatorApp.dll
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.pdb
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.genruntimeconfig.cache
+c:\Users\NKG\Desktop\dcit318-assignment1-11204388\GradeCalculatorApp\obj\Debug\net9.0\ref\GradeCalculatorApp.dll
